@@ -8,6 +8,9 @@ Author: Kentakure
 Author URI: https://github.com/Kentakure
 License: GPL2
 */
-//読み込ませたいカスタム関数のコードをcodes.phpから読み込ませる。
-require_once("codes.php");
+/*編集ここから*/
+
+
+
+/*編集ここまで*/
 ?>
