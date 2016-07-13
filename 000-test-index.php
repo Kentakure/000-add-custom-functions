@@ -8,5 +8,9 @@ Author: Kentakure
 Author URI: https://github.com/Kentakure
 License: GPL2
 */
-require_once("test-codes.php");
+/*編集ここから*/
+
+
+
+/*編集ここまで*/
 ?>
